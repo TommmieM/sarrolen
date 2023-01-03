@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adventures In Sarrolen</title>
-    <link>https://sarrolen.neocities.org/</link>
-    <description>Recent content on Adventures In Sarrolen</description>
+    <title>Posts on Adventures In Sarrolen</title>
+    <link>https://sarrolen.neocities.org/posts/</link>
+    <description>Recent content in Posts on Adventures In Sarrolen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 07:00:06 -0700</lastBuildDate><atom:link href="https://sarrolen.neocities.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://sarrolen.neocities.org/about/</link>
-      <pubDate>Mon, 02 Jan 2023 07:31:41 -0700</pubDate>
-      
-      <guid>https://sarrolen.neocities.org/about/</guid>
-      <description>Sarrolen. A land untouched and unknown past fifty years ago. There is an awakening. What will it mean?</description>
-    </item>
-    
+    <lastBuildDate>Sun, 01 Jan 2023 07:00:06 -0700</lastBuildDate><atom:link href="https://sarrolen.neocities.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Day1</title>
       <link>https://sarrolen.neocities.org/posts/day1/</link>
