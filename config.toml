@@ -1,0 +1,4 @@
+baseURL = 'https://sarrolen.neocities.org/'
+languageCode = 'en-us'
+title = 'Adventures In Sarrolen'
+theme = 'm10c'
