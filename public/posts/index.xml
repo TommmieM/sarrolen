@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Adventures In Sarrolen</title>
-    <link>https://sarrolen.neocities.org/posts/</link>
-    <description>Recent content in Posts on Adventures In Sarrolen</description>
+    <title>Posts on Adventures in Sarrolen</title>
+    <link>https://sarrolen.netlify.com/posts/</link>
+    <description>Recent content in Posts on Adventures in Sarrolen</description>
+    <image>
+      <url>https://sarrolen.netlify.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sarrolen.netlify.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 07:00:06 -0700</lastBuildDate><atom:link href="https://sarrolen.neocities.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 07:00:06 -0700</lastBuildDate><atom:link href="https://sarrolen.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Day1</title>
-      <link>https://sarrolen.neocities.org/posts/day1/</link>
+      <link>https://sarrolen.netlify.com/posts/day1/</link>
       <pubDate>Sun, 01 Jan 2023 07:00:06 -0700</pubDate>
       
-      <guid>https://sarrolen.neocities.org/posts/day1/</guid>
+      <guid>https://sarrolen.netlify.com/posts/day1/</guid>
       <description>Adventures in Sarrolen Day 1 - Setup From the diary of Elder Alfred Duncan We&amp;rsquo;ve been here fifty years. At least, that&amp;rsquo;s as far back as any of us can remember. Some of us have been here the entire memory, and they were adults then. It doesn&amp;rsquo;t make sense. Some of those born the first year of our memory look younger than some of the now dead looked when we first remember.</description>
     </item>
     
