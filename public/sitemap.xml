@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sarrolen.netlify.com/</loc>
+    <lastmod>2023-01-05T15:53:57-07:00</lastmod>
+  </url><url>
+    <loc>https://sarrolen.netlify.com/posts/day2-the-party/</loc>
+    <lastmod>2023-01-05T15:53:57-07:00</lastmod>
+  </url><url>
+    <loc>https://sarrolen.netlify.com/posts/</loc>
+    <lastmod>2023-01-05T15:53:57-07:00</lastmod>
+  </url><url>
     <loc>https://sarrolen.netlify.com/about/</loc>
     <lastmod>2023-01-02T07:31:41-07:00</lastmod>
   </url><url>
-    <loc>https://sarrolen.netlify.com/</loc>
-    <lastmod>2023-01-01T07:00:06-07:00</lastmod>
-  </url><url>
     <loc>https://sarrolen.netlify.com/posts/day1/</loc>
-    <lastmod>2023-01-01T07:00:06-07:00</lastmod>
-  </url><url>
-    <loc>https://sarrolen.netlify.com/posts/</loc>
     <lastmod>2023-01-01T07:00:06-07:00</lastmod>
   </url><url>
     <loc>https://sarrolen.netlify.com/categories/</loc>
