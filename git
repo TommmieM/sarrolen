@@ -1,0 +1,2 @@
+git config --global brance.autosetuprebase always
+git config --global pull.rebase preserve
