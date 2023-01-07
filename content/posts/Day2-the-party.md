@@ -1,6 +1,6 @@
 ---
 title: "Day2 the Party"
-date: 2023-01-05T15:53:57-07:00
+date: 2023-01-02T15:53:57-07:00
 ---
 
 # Day 2 - Meet the Party
